@@ -22,6 +22,6 @@ Contact: [email] · [LinkedIn URL]
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
 
-"By [date, 90 days out], I will be interview-ready for [SOC Analyst / Security Analyst] roles in [city / remote], with documented investigations, a rebuilt resume, and 1,000+ applications submitted. I commit to [X] hours/week, one chapter/week, and daily check-ins."
+"By [date, 90 days out], I will be interview-ready for [SOC Analyst / Security Analyst] roles in [city / remote], with documented investigations, a rebuilt resume, and 1,000+ applications submitted. I commit to [13] hours/week, one chapter/week, and daily check-ins."
 
 Notice the goal is "interview-ready with proof and pipeline." That's the version of YOU that you CAN control. Offers arrive randomly and not on any schedule. Your job is to be undeniable when a hiring manager or recruiter lays eyes on your application and resume.
